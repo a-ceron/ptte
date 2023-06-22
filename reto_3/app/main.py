@@ -16,9 +16,9 @@ from pydantic import BaseModel, Field
 from fastapi import Body
 from fastapi import FastAPI
 
-from objetos import consts
-from objetos import dataManager as dm
-from objetos import functionsManager as fm
+from .objetos import consts
+from .objetos import dataManager as dm
+from .objetos import functionsManager as fm
 
 
 app = FastAPI()
