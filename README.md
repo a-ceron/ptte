@@ -19,6 +19,7 @@ Debes describir de manera clara y consisa los pasos realizados para dar solució
 - FastAPI
 - networkx
 - pyTorch
+- gensim
 
 ## Otras herramientas
 - Docker
