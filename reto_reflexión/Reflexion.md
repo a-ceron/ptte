@@ -1,0 +1,2 @@
+## Reflexión
+Actualmente el gobierno está haciendo un esfuerzo para contribuir en la transfomración digital del país. Con tu experiencia y habilidades actuales, ¿qué soluciones basadas en ciencia de datos propones que sean posibles de implementar y que beneficien a la sociedad mexicana?
